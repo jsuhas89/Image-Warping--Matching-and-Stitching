@@ -1,0 +1,956 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.8.26)  28 FEB 2016 22:16
+entering extended mode
+**a2_report.tex
+(E:\sagabhan-jagadiss-prakraja-a2\Report\a2_report.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\c@thm=\count87
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen103
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty"
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks15
+\thm@bodyfont=\toks16
+\thm@headfont=\toks17
+\thm@notefont=\toks18
+\thm@headpunct=\toks19
+\thm@preskip=\skip44
+\thm@postskip=\skip45
+\thm@headsep=\skip46
+\dth@everypar=\toks20
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
+Package: algpseudocode 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count89
+\c@ALG@rem=\count90
+\c@ALG@nested=\count91
+\ALG@tlm=\skip47
+\ALG@thistlm=\skip48
+\c@ALG@Lnr=\count92
+\c@ALG@blocknr=\count93
+\c@ALG@storecount=\count94
+\c@ALG@tmpcounter=\count95
+\ALG@tmplength=\skip49
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tikz-qtree\tikz-qtree.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen106
+\pgfutil@tempdimb=\dimen107
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
+x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+\pgfutil@abb=\box26
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
+x"
+\pgfkeys@tmptoks=\toks25
+))
+\pgf@x=\dimen108
+\pgf@y=\dimen109
+\pgf@xa=\dimen110
+\pgf@ya=\dimen111
+\pgf@xb=\dimen112
+\pgf@yb=\dimen113
+\pgf@xc=\dimen114
+\pgf@yc=\dimen115
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count96
+\c@pgf@countb=\count97
+\c@pgf@countc=\count98
+\c@pgf@countd=\count99
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count100
+\pgfsyssoftpath@bigbuffer@items=\count101
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
+ex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen116
+\pgfmath@count=\count102
+\pgfmath@box=\box27
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
+hmetics.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count103
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen117
+\pgf@picmaxx=\dimen118
+\pgf@picminy=\dimen119
+\pgf@picmaxy=\dimen120
+\pgf@pathminx=\dimen121
+\pgf@pathmaxx=\dimen122
+\pgf@pathminy=\dimen123
+\pgf@pathmaxy=\dimen124
+\pgf@xx=\dimen125
+\pgf@xy=\dimen126
+\pgf@yx=\dimen127
+\pgf@yy=\dimen128
+\pgf@zx=\dimen129
+\pgf@zy=\dimen130
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
+ode.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen131
+\pgf@path@lasty=\dimen132
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
+tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen133
+\pgf@shorten@start@additional=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count104
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
+de.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen135
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
+.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen136
+\pgf@pt@y=\dimen137
+\pgf@pt@temp=\dimen138
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.te
+x"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.
+code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen139
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen140
+\pgf@sys@shading@range@num=\count105
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
+x"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
+ex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box31
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.co
+de.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.t
+ex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box32
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
+sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen141
+\pgf@nodesepend=\dimen142
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
+sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+\pgffor@iter=\dimen143
+\pgffor@skip=\dimen144
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
+code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count106
+\pgfplotmarksize=\dimen145
+)
+\tikz@lastx=\dimen146
+\tikz@lasty=\dimen147
+\tikz@lastxsaved=\dimen148
+\tikz@lastysaved=\dimen149
+\tikzleveldistance=\dimen150
+\tikzsiblingdistance=\dimen151
+\tikz@figbox=\box33
+\tikz@figbox@bg=\box34
+\tikz@tempbox=\box35
+\tikz@tempbox@bg=\box36
+\tikztreelevel=\count107
+\tikznumberofchildren=\count108
+\tikznumberofcurrentchild=\count109
+\tikz@fig@count=\count110
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count111
+\pgfmatrixcurrentcolumn=\count112
+\pgf@matrix@numberofcolumns=\count113
+)
+\tikz@expandcount=\count114
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tikz-qtree\pgftree.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tikz-qtree\pgfsubpic.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\tikz-qtree\pgfsubpic.tex"
+\pgf@subpicminx=\dimen152
+\pgf@subpicminy=\dimen153
+\pgf@subpicmaxx=\dimen154
+\pgf@subpicmaxy=\dimen155
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tikz-qtree\pgftree.tex"
+\levelsep=\dimen156
+\subtreesep=\dimen157
+\smuggle@levelsep=\dimen158
+\smuggle@subtreesep=\dimen159
+\this@levelsep=\dimen160
+\this@subtreesep=\dimen161
+\pgftree@childx=\dimen162
+\pgftree@savechildx=\dimen163
+\pgftree@childy=\dimen164
+\pgftree@savechildy=\dimen165
+\pgftree@childi=\count115
+\pgftree@savechildi=\count116
+\pgftree@level=\count117
+\pgftree@depth=\dimen166
+\pgf@subpic@hbox@children=\box37
+\pgf@subpic@minx@children=\dimen167
+\pgf@subpic@miny@children=\dimen168
+\pgf@subpic@maxx@children=\dimen169
+\pgf@subpic@maxy@children=\dimen170
+\pgftree@lastchildx=\dimen171
+\pgftree@lastchildy=\dimen172
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tikz-qtree\tikz-qtree.tex"
+\@result=\toks34
+\child@list=\toks35
+\root@node=\toks36
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\qtree\qtree.sty"
+Package: 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+Package: qtree 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+("C:\Program Files\MiKTeX 2.9\tex\latex\pict2e\pict2e.sty"
+Package: pict2e 2016/02/05 v0.3b Improved picture commands (HjG,RN,JT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\pict2e.cfg"
+File: pict2e.cfg 2005/12/29 v1.0 MiKTeX 'pict2e' configuration
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pict2e\p2e-pdftex.def"
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks37
+\@arclen=\dimen173
+\@arcrad=\dimen174
+\@tempdimd=\dimen175
+)
+\c@treecount=\count118
+\c@branchcount=\count119
+\parentbox=\box38
+\treebox=\box39
+\treeboxone=\box40
+\treeboxtwo=\box41
+\treeboxthree=\box42
+\treeboxfour=\box43
+\treeboxfive=\box44
+\treeboxsix=\box45
+\treeboxseven=\box46
+\treeboxeight=\box47
+\treeboxnine=\box48
+\treeboxten=\box49
+\treeboxeleven=\box50
+\treeboxtwelve=\box51
+\treeboxthirteen=\box52
+\treeboxfourteen=\box53
+\treeboxfifteen=\box54
+\treeboxsixteen=\box55
+\treeboxseventeen=\box56
+\treeboxeighteen=\box57
+\treeboxnineteen=\box58
+\treeboxtwenty=\box59
+\treeoffsetone=\skip50
+\treeoffsettwo=\skip51
+\treeoffsetthree=\skip52
+\treeoffsetfour=\skip53
+\treeoffsetfive=\skip54
+\treeoffsetsix=\skip55
+\treeoffsetseven=\skip56
+\treeoffseteight=\skip57
+\treeoffsetnine=\skip58
+\treeoffsetten=\skip59
+\treeoffseteleven=\skip60
+\treeoffsettwelve=\skip61
+\treeoffsetthirteen=\skip62
+\treeoffsetfourteen=\skip63
+\treeoffsetfifteen=\skip64
+\treeoffsetsixteen=\skip65
+\treeoffsetseventeen=\skip66
+\treeoffseteighteen=\skip67
+\treeoffsetnineteen=\skip68
+\treeoffsettwenty=\skip69
+\treeshiftone=\skip70
+\treeshifttwo=\skip71
+\treeshiftthree=\skip72
+\treeshiftfour=\skip73
+\treeshiftfive=\skip74
+\treeshiftsix=\skip75
+\treeshiftseven=\skip76
+\treeshifteight=\skip77
+\treeshiftnine=\skip78
+\treeshiftten=\skip79
+\treeshifteleven=\skip80
+\treeshifttwelve=\skip81
+\treeshiftthirteen=\skip82
+\treeshiftfourteen=\skip83
+\treeshiftfifteen=\skip84
+\treeshiftsixteen=\skip85
+\treeshiftseventeen=\skip86
+\treeshifteighteen=\skip87
+\treeshiftnineteen=\skip88
+\treeshifttwenty=\skip89
+\treewidthone=\skip90
+\treewidthtwo=\skip91
+\treewidththree=\skip92
+\treewidthfour=\skip93
+\treewidthfive=\skip94
+\treewidthsix=\skip95
+\treewidthseven=\skip96
+\treewidtheight=\skip97
+\treewidthnine=\skip98
+\treewidthten=\skip99
+\treewidtheleven=\skip100
+\treewidthtwelve=\skip101
+\treewidththirteen=\skip102
+\treewidthfourteen=\skip103
+\treewidthfifteen=\skip104
+\treewidthsixteen=\skip105
+\treewidthseventeen=\skip106
+\treewidtheighteen=\skip107
+\treewidthnineteen=\skip108
+\treewidthtwenty=\skip109
+\daughteroffsetone=\skip110
+\daughteroffsettwo=\skip111
+\daughteroffsetthree=\skip112
+\daughteroffsetfour=\skip113
+\branchwidthone=\skip114
+\branchwidthtwo=\skip115
+\branchwidththree=\skip116
+\branchwidthfour=\skip117
+\parentoffset=\skip118
+\treeoffset=\skip119
+\daughteroffset=\skip120
+\branchwidth=\skip121
+\parentwidth=\skip122
+\treewidth=\skip123
+\qta=\toks38
+\qtb=\toks39
+\nbranches=\count120
+\qroofx=\count121
+\qroofy=\count122
+\@qrscratchbox=\box60
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip124
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks40
+\ex@=\dimen176
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen177
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count123
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count124
+\leftroot@=\count125
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count126
+\DOTSCASE@=\count127
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box61
+\strutbox@=\box62
+\big@size=\dimen178
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count128
+\c@MaxMatrixCols=\count129
+\dotsspace@=\muskip10
+\c@parentequation=\count130
+\dspbrk@lvl=\count131
+\tag@help=\toks41
+\row@=\count132
+\column@=\count133
+\maxfields@=\count134
+\andhelp@=\toks42
+\eqnshift@=\dimen179
+\alignsep@=\dimen180
+\tagshift@=\dimen181
+\tagwidth@=\dimen182
+\totwidth@=\dimen183
+\lineht@=\dimen184
+\@envbody=\toks43
+\multlinegap=\skip125
+\multlinetaggap=\skip126
+\mathdisplay@stack=\toks44
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(E:\sagabhan-jagadiss-prakraja-a2\Report\a2_report.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count135
+\scratchdimen=\dimen185
+\scratchbox=\box63
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen186
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks46
+) ABD: EveryShipout initializing macros
+LaTeX Font Info:    Try loading font information for U+msa on input line 49.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 49.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<result_sift_match.jpg, id=4, 1003.75pt x 376.40625pt>
+File: result_sift_match.jpg Graphic file (type jpg)
+
+<use result_sift_match.jpg>
+Package pdftex.def Info: result_sift_match.jpg used on input line 66.
+(pdftex.def)             Requested size: 455.25195pt x 227.62596pt.
+
+Overfull \hbox (10.49696pt too wide) in paragraph at lines 66--66
+ [] 
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <E:/sagabhan-jagadiss-prak
+raja-a2/Report/result_sift_match.jpg>]
+<p1-q2.png, id=12, 485.56406pt x 325.96782pt>
+File: p1-q2.png Graphic file (type png)
+ <use p1-q2.png>
+Package pdftex.def Info: p1-q2.png used on input line 77.
+(pdftex.def)             Requested size: 284.5243pt x 199.17331pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--91
+
+ []
+
+<bigben.png, id=13, 566.115pt x 387.4475pt>
+File: bigben.png Graphic file (type png)
+ <use bigben.png>
+Package pdftex.def Info: bigben.png used on input line 94.
+(pdftex.def)             Requested size: 113.80838pt x 85.35695pt.
+
+<colosseum.png, id=14, 566.115pt x 387.4475pt>
+File: colosseum.png Graphic file (type png)
+ <use colosseum.png>
+Package pdftex.def Info: colosseum.png used on input line 96.
+(pdftex.def)             Requested size: 113.80838pt x 85.35695pt.
+
+<eiffel.png, id=15, 566.115pt x 387.4475pt>
+File: eiffel.png Graphic file (type png)
+ <use eiffel.png>
+Package pdftex.def Info: eiffel.png used on input line 98.
+(pdftex.def)             Requested size: 113.80838pt x 85.35695pt.
+
+<empirestate.png, id=16, 566.115pt x 387.4475pt>
+File: empirestate.png Graphic file (type png)
+ <use empirestate.png>
+Package pdftex.def Info: empirestate.png used on input line 100.
+(pdftex.def)             Requested size: 113.80838pt x 85.35695pt.
+
+<londoneye.png, id=17, 566.115pt x 387.4475pt>
+File: londoneye.png Graphic file (type png)
+ <use londoneye.png>
+Package pdftex.def Info: londoneye.png used on input line 102.
+(pdftex.def)             Requested size: 113.80838pt x 85.35695pt.
+
+<louvre.png, id=18, 566.115pt x 387.4475pt>
+File: louvre.png Graphic file (type png)
+ <use louvre.png>
+Package pdftex.def Info: louvre.png used on input line 104.
+(pdftex.def)             Requested size: 113.80838pt x 85.35695pt.
+
+<notredame.png, id=19, 566.115pt x 387.4475pt>
+File: notredame.png Graphic file (type png)
+ <use notredame.png>
+Package pdftex.def Info: notredame.png used on input line 106.
+(pdftex.def)             Requested size: 113.80838pt x 85.35695pt.
+
+<sanmarco.png, id=20, 566.115pt x 387.4475pt>
+File: sanmarco.png Graphic file (type png)
+ <use sanmarco.png>
+Package pdftex.def Info: sanmarco.png used on input line 108.
+(pdftex.def)             Requested size: 113.80838pt x 85.35695pt.
+
+<tatemodern.png, id=21, 566.115pt x 387.4475pt>
+File: tatemodern.png Graphic file (type png)
+ <use tatemodern.png>
+Package pdftex.def Info: tatemodern.png used on input line 110.
+(pdftex.def)             Requested size: 113.80838pt x 85.35695pt.
+
+<trafalgarsquare.png, id=22, 566.115pt x 387.4475pt>
+File: trafalgarsquare.png Graphic file (type png)
+ <use trafalgarsquare.png>
+Package pdftex.def Info: trafalgarsquare.png used on input line 112.
+(pdftex.def)             Requested size: 113.80838pt x 85.35695pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--114
+[][]   []   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--114
+[]   []   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--114
+[]   []   []
+ []
+
+[2 <E:/sagabhan-jagadiss-prakraja-a2/Report/p1-q2.png>] [3 <E:/sagabhan-jagadis
+s-prakraja-a2/Report/bigben.png> <E:/sagabhan-jagadiss-prakraja-a2/Report/colos
+seum.png> <E:/sagabhan-jagadiss-prakraja-a2/Report/eiffel.png> <E:/sagabhan-jag
+adiss-prakraja-a2/Report/empirestate.png> <E:/sagabhan-jagadiss-prakraja-a2/Rep
+ort/londoneye.png> <E:/sagabhan-jagadiss-prakraja-a2/Report/louvre.png> <E:/sag
+abhan-jagadiss-prakraja-a2/Report/notredame.png> <E:/sagabhan-jagadiss-prakraja
+-a2/Report/sanmarco.png> <E:/sagabhan-jagadiss-prakraja-a2/Report/tatemodern.pn
+g> <E:/sagabhan-jagadiss-prakraja-a2/Report/trafalgarsquare.png>]
+<k-time.png, id=40, 1626.075pt x 741.77126pt>
+File: k-time.png Graphic file (type png)
+ <use k-time.png>
+Package pdftex.def Info: k-time.png used on input line 155.
+(pdftex.def)             Requested size: 142.24648pt x 85.35283pt.
+
+<k-acc.png, id=42, 1626.075pt x 741.77126pt>
+File: k-acc.png Graphic file (type png)
+ <use k-acc.png>
+Package pdftex.def Info: k-acc.png used on input line 157.
+(pdftex.def)             Requested size: 142.24648pt x 85.35283pt.
+
+<k-w-t-a.png, id=43, 1626.075pt x 741.77126pt>
+File: k-w-t-a.png Graphic file (type png)
+ <use k-w-t-a.png>
+Package pdftex.def Info: k-w-t-a.png used on input line 159.
+(pdftex.def)             Requested size: 142.24648pt x 85.35283pt.
+
+Overfull \hbox (16.38583pt too wide) in paragraph at lines 155--160
+[][]   []   [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--177
+
+ []
+
+[4 <E:/sagabhan-jagadiss-prakraja-a2/Report/k-time.png> <E:/sagabhan-jagadiss-p
+rakraja-a2/Report/k-acc.png> <E:/sagabhan-jagadiss-prakraja-a2/Report/k-w-t-a.p
+ng>] <res.png, id=50, 1027.84pt x 683.55376pt>
+File: res.png Graphic file (type png)
+ <use res.png>
+Package pdftex.def Info: res.png used on input line 189.
+(pdftex.def)             Requested size: 455.24655pt x 227.61775pt.
+
+Overfull \hbox (10.49156pt too wide) in paragraph at lines 189--189
+ [] 
+ []
+
+[5 <E:/sagabhan-jagadiss-prakraja-a2/Report/res.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 203--207
+
+ []
+
+<2298146191_888de5b755_z_d.jpg, id=54, 160.6pt x 120.45pt>
+File: 2298146191_888de5b755_z_d.jpg Graphic file (type jpg)
+
+<use 2298146191_888de5b755_z_d.jpg>
+Package pdftex.def Info: 2298146191_888de5b755_z_d.jpg used on input line 209.
+(pdftex.def)             Requested size: 284.53642pt x 227.64432pt.
+
+<3268706748_0d2c67f3c3_z_d.jpg, id=55, 642.4pt x 432.61626pt>
+File: 3268706748_0d2c67f3c3_z_d.jpg Graphic file (type jpg)
+
+<use 3268706748_0d2c67f3c3_z_d.jpg>
+Package pdftex.def Info: 3268706748_0d2c67f3c3_z_d.jpg used on input line 211.
+(pdftex.def)             Requested size: 227.6174pt x 170.71321pt.
+
+<image1-warped.jpg, id=56, 481.8pt x 324.46219pt>
+File: image1-warped.jpg Graphic file (type jpg)
+ <use image1-warped.jpg>
+Package pdftex.def Info: image1-warped.jpg used on input line 213.
+(pdftex.def)             Requested size: 227.62228pt x 170.7165pt.
+
+<7498821028_6e7f113f4c_z_d.jpg, id=57, 642.4pt x 427.5975pt>
+File: 7498821028_6e7f113f4c_z_d.jpg Graphic file (type jpg)
+
+<use 7498821028_6e7f113f4c_z_d.jpg>
+Package pdftex.def Info: 7498821028_6e7f113f4c_z_d.jpg used on input line 215.
+(pdftex.def)             Requested size: 227.6174pt x 170.71626pt.
+
+<image2-warped.jpg, id=58, 481.8pt x 321.45094pt>
+File: image2-warped.jpg Graphic file (type jpg)
+ <use image2-warped.jpg>
+Package pdftex.def Info: image2-warped.jpg used on input line 217.
+(pdftex.def)             Requested size: 227.62228pt x 170.72133pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--219
+
+ []
+
+
+Overfull \hbox (23.60414pt too wide) in paragraph at lines 209--219
+[]   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--219
+
+ []
+
+
+Overfull \hbox (23.60414pt too wide) in paragraph at lines 209--219
+[]   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--219
+
+ []
+
+
+LaTeX Warning: Float too large for page by 32.85213pt on input line 219.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+
+Overfull \hbox (6.90163pt too wide) in paragraph at lines 229--230
+[]\OT1/cmr/m/n/10 1.3) ./a2 part1.3 directory(/u/jagadiss/sagabhan-jagadiss-pra
+kraja-a2/a2-images/part1[]images/) optional-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+[6] [7 <E:/sagabhan-jagadiss-prakraja-a2/Report/2298146191_888de5b755_z_d.jpg> 
+<E:/sagabhan-jagadiss-prakraja-a2/Report/3268706748_0d2c67f3c3_z_d.jpg> <E:/sag
+abhan-jagadiss-prakraja-a2/Report/image1-warped.jpg> <E:/sagabhan-jagadiss-prak
+raja-a2/Report/7498821028_6e7f113f4c_z_d.jpg> <E:/sagabhan-jagadiss-prakraja-a2
+/Report/image2-warped.jpg>]
+(E:\sagabhan-jagadiss-prakraja-a2\Report\a2_report.aux) ) 
+Here is how much of TeX's memory you used:
+ 13088 strings out of 493921
+ 252918 string characters out of 3147285
+ 290756 words of memory out of 3000000
+ 16105 multiletter control sequences out of 15000+200000
+ 10591 words of font info for 42 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 62i,9n,56p,581b,327s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr17.pfb>
+Output written on a2_report.pdf (7 pages, 2562284 bytes).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+
